@@ -1,6 +1,8 @@
 # The-Stock-Trader
 A Vue.js project created with the basic and advance concepts of Vue.js
+
 This is a pure Vue js project.
+
 A complete crud have created in the form of Vue js 
 ## Build Setup
 
